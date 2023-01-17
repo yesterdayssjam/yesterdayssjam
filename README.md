@@ -1,4 +1,3 @@
-hi, i'm frankie :)
 
 <!---
 yesterdayssjam/yesterdayssjam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
